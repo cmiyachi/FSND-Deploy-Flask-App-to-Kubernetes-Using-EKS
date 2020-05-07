@@ -56,7 +56,7 @@ Parameters:
 
   KubectlRoleName:
     Type: String
-    Default: eksctl-simple-jwt-api-cluster-ServiceRole-EW0CAYTIUQY7
+    Default: UdacityFlaskDeployCBKubectlRole
     Description: Kubernetes Role
     MinLength: 3
     MaxLength: 100
